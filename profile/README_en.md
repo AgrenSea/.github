@@ -14,7 +14,7 @@ QQ Group: 864412399
 ## 🏔️ Server Introduction  
 "AgrenSea" is a warm Minecraft server (Java Edition) that has undergone four version iterations.  
 - ​**Prehistoric Version**  
-    - Data unavailable  
+    - Data unavailable.  
 - ​**Earth Online 1.0**  
     - Started in December 2022.  
     - Proposed by [@白鹿](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md) et al.  
