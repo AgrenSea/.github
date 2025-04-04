@@ -36,4 +36,4 @@ QQ コミュニティグループ: 864412399
 - コミュニティ管理：[@白鹿](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@藍天歳](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@巧楽茲就是屑](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@whzc](https://github.com/whzcc), [@liufu](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@zoujin24](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md)
 
 ## ⚡ 最近のマイルストーン
-- [x] ​**Agratoボット**：チャット機能、天気検索、Wordle単語当てゲームなどをサポート
+- [x] ​**Agrato ボット**：チャット機能、天気検索、Wordle 単語当てゲームなどをサポート
