@@ -7,9 +7,11 @@
 - [简体中文](https://github.com/AgrenSea/.github/blob/main/profile/README.md) | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | English [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
 
 ## 🎮 How to Join
+```properties
 IP: Please check QQ group announcement  
 Version: Java 1.21 (.1)  
 QQ Group: 864412399
+```
 
 ## 🏔️ Server Introduction  
 "AgrenSea" is a warm Minecraft server (Java Edition) that has undergone four version iterations.  
