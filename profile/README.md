@@ -37,7 +37,7 @@ QQ 社区群: 864412399
 - 维护：[@sdgedghdg](https://github.com/sdgedghdg), [@化一](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md)
 - 建筑：[@Grilled_CarpFish](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md)
 - 机器人：[@whzc](https://github.com/whzcc)
-- 社区管理：[@白鹿](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@蓝天岁](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@巧乐兹就是屑](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@whzc](https://github.com/whzcc), [@liufu](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@zoujin24](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), 
+- 社区管理：[@白鹿](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@蓝天岁](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@巧乐兹就是屑](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@whzc](https://github.com/whzcc), [@liufu](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md), [@zoujin24](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md)
 
 
 ## ⚡ 近期里程碑
