@@ -1,1 +1,1 @@
-# .github
+# AgrenSea's official organization.
