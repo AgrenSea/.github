@@ -4,7 +4,7 @@
 
 ## 😉 本頁綱目
 - 此乃 AgrenSea 之伺服器，未來大計將布於此
-- 简体中文 | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
+- [简体中文](https://github.com/AgrenSea/.github/blob/main/profile/README.md) | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | 文言 | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
 ## 🎮 締盟之法
 ```properties
 IP: 請詣 QQ 社羣揭榜觀之
