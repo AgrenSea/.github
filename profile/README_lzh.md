@@ -15,7 +15,7 @@ QQ 社羣: 八六四四一二三九九
 ## 🏔️ 樞機簡牘
 「银海」者，乃有温煦之气之麦块传世伺服器，凡四度鼎革。
 - ​**鸿蒙纪**
-    - 典冊闕如
+    - 典冊闕如。
 - ​**塵寰演義 一.〇**
     - 啟於壬寅年臘月
     - 始於 [@白鹿](https://github.com/AgrenSea/.github/blob/main/profile/name_fallback.md) 諸君
