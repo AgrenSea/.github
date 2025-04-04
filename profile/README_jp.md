@@ -7,9 +7,11 @@
 - [简体中文](https://github.com/AgrenSea/.github/blob/main/profile/README.md) | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | 日本語
 
 ## 🎮 参加方法
+```properties
 IP: QQ コミュニティグループの掲示をご確認ください  
 バージョン: Java 1.21 (.1)  
 QQ コミュニティグループ: 864412399
+```
 
 ## 🏔️ サーバー概要
 「AgrenSea」は温かみのある Minecraft Java 版サバイバルサーバーで、これまで 4 回のバージョンアップを経ています。
