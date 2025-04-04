@@ -1,9 +1,9 @@
 # 🌊 银海 AgrenSea —— MC 史诗之旅
 
-> **「AgrenSea 将在 2025 年 7 月与你们重聚！」**
+> **「AgrenSea 将在 2025 年 7 月与你们重聚！」** --化一
 
 ## 😉 本页介绍
-- 这里是 AgrenSea 的组织，未来的项目将在这里发布。
+- 这里是 AgrenSea 的组织，未来的项目将在这里发布，比如服务器使用的自助开发的数据包。
 - 简体中文 | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
 
 
