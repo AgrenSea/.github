@@ -4,7 +4,7 @@
 
 ## 😉 Page Introduction
 - This is the organization of AgrenSea, where future projects will be released.
-- 简体中文 | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
+- [简体中文](https://github.com/AgrenSea/.github/blob/main/profile/README.md) | [繁體中文](https://github.com/AgrenSea/.github/blob/main/profile/README_traditional.md) | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | English [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
 
 ## 🎮 How to Join
 IP: Please check QQ group announcement  
