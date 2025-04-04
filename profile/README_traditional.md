@@ -7,9 +7,11 @@
 - [简体中文](https://github.com/AgrenSea/.github/blob/main/profile/README.md) | 繁體中文 | [文言](https://github.com/AgrenSea/.github/blob/main/profile/README_lzh.md) | [English](https://github.com/AgrenSea/.github/blob/main/profile/README_en.md) | [日本語](https://github.com/AgrenSea/.github/blob/main/profile/README_jp.md)
 
 ## 🎮 如何加入
+```properties
 IP: 請前往 QQ 社群群組公告查看  
 版本: Java 1.21 (.1)  
-QQ 社群群組: 864412399  
+QQ 社群群組: 864412399
+```
 
 ## 🏔️ 伺服器簡介
 「 AgrenSea 」是一個有溫度的 Minecraft Java 版生存伺服器，共歷經了四次版本迭代。
